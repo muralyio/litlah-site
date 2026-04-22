@@ -1,2 +1,2 @@
 # litlah-site
-Litlah - Future is Autonomy.
+Future is Autonomy.
