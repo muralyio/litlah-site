@@ -1,2 +1,2 @@
 # litlah-site
-Litlah - Future is cool, bro.
+Litlah - Future is Autonomy.
